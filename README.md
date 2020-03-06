@@ -1,2 +1,2 @@
 # Hotel-Booking-Demand
-Its the data of two hotels a Resort hotel and a City hotel.
+This file contains the basic EDA and f1_scores of different models that has perfomed on this dataset.
